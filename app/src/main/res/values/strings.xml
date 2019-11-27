@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="t1">Enter  weight(kg) :</string>
+    <string name="t2">Enter Height (cm) :</string>
+    <string name="txtWeight">kg</string>
+    <string name="btn1">Claculate</string>
+    <string name="btn2">Reset</string>
+    <string name="image">BIM image</string>
+    <string name="t3">BIM value :</string>
+    <string name="t4" />
+    <string name="t5">Value</string>
+</resources>
